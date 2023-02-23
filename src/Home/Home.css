@@ -1,0 +1,35 @@
+.wrapper{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+.table{
+    margin-top: 2%;
+    width: 100%;
+}
+.title{
+    text-align: center;
+}
+.btn{
+    width: 100%;
+}
+.table tr:nth-child(odd){
+    background-color: aliceblue;
+}
+input{
+    padding: 5px;
+    margin-top: 3px;
+}
+.form{
+    display: flex;
+    align-items:flex-end;
+}
+.form select{
+    width: 100px;
+    padding: 6px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.form button{
+    margin-right: 10px;
+}
